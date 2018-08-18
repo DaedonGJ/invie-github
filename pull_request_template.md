@@ -1,5 +1,5 @@
 # Descripción
-¿Quçe ha cambiado?
+¿Qué ha cambiado?
 - [ ] Frontend
 - [ ] Backend
 - [ ] configuraci´n del server
